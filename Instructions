@@ -1,4 +1,4 @@
-Here are the steps I followed. However, you could download the project folder(my-app) with all the files and skip Step 3  
+Here are the steps I followed. However, you could download my project folder(my-app) with all the files from Github or Zip folder and skip Step 3  
 
 Step 1-> Download Node.js: 
 https://nodejs.org/en/
@@ -6,7 +6,7 @@ https://nodejs.org/en/
 Step 2->Install create react app: 
 npm install -g create-react-app
 
-Step 3->Inside your desired directory create a project(my-app): 
+Step 3->Inside your desired directory create a project folder(my-app): 
 create-react-app my-app
 
 Step 4->Navigate inside my-app folder using : 
