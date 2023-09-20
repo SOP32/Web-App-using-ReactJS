@@ -37,6 +37,28 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
 
+### Instructions
+Step 1-> Download Node.js: 
+https://nodejs.org/en/
+
+Step 2->Install create react app: 
+npm install -g create-react-app
+
+Step 3->Inside your desired directory create a project folder(my-app): 
+create-react-app my-app
+
+Step 4->Navigate inside my-app folder using : 
+cd my-app
+
+Step 5->Then run: 
+npm start  
+
+Step 6->React-MDL: 
+npm install --save react-mdl 
+
+Step 7->Router dom:
+npm add react-router-dom
+
 ## Learn More
 
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
@@ -67,24 +89,3 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
 
-### Instructions
-Step 1-> Download Node.js: 
-https://nodejs.org/en/
-
-Step 2->Install create react app: 
-npm install -g create-react-app
-
-Step 3->Inside your desired directory create a project folder(my-app): 
-create-react-app my-app
-
-Step 4->Navigate inside my-app folder using : 
-cd my-app
-
-Step 5->Then run: 
-npm start  
-
-Step 6->React-MDL: 
-npm install --save react-mdl 
-
-Step 7->Router dom:
-npm add react-router-dom
